@@ -20,7 +20,7 @@
 
 I am a **Master's student in Artificial Intelligence** at Università degli Studi di Firenze, aiming to bridge the gap between theoretical research and real-world applications.
 
-I hold a **B.Sc. in Computer Engineering** from Università degli Studi di Firenze, graduated with **highest honors (110/110 cum laude)**. Currently, my main focus is on building a strong mathematical foundation for advanced AI models.
+I hold a **B.Sc. in Computer Engineering** from Università degli Studi di Firenze, graduated with ** (110/110 cum laude)**. Currently, my main focus is on building a strong mathematical foundation for advanced AI models.
 
 * 🎓 I’m currently focusing on **Deep Learning**
 * 🔬 I am deeply interested in **Computer Vision / NLP**
